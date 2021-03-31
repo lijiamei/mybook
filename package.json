@@ -9,6 +9,7 @@
   },
   "repository": {
 
+
     "type": "git",
     "url": "git+https://github.com/lijiamei/mybook.git"
   },
@@ -20,6 +21,7 @@
   },
   "homepage": "https://github.com/lijiamei/mybook#readme",
   "devDependencies": {
+
     "gitbook": "^2.6.9",
     "gitbook-cli": "^2.3.2"
   }
